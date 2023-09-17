@@ -1,0 +1,27 @@
+[
+    {
+      "movie_id": 1,
+      "Name": "Inception",
+      "Genre": "Sci-Fi",
+      "Quality": "720p, 1080p, 4k",
+      "Rating": 8.8,
+      "year": 2010
+    },
+    {
+      "movie_id": 2,
+      "Name": "Fast And Furious",
+      "Genre": "Action",
+      "Quality": "720p, 1080p, 4k",
+      "Rating": 7.5,
+      "year": 2008
+    },
+    {
+      "movie_id": 3,
+      "Name": "It",
+      "Genre": "Horror",
+      "Quality": "720p, 1080p, 4k",
+      "Rating": 5.5,
+      "year": 2020
+    }
+  ]
+  
